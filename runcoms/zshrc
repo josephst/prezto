@@ -11,4 +11,5 @@ if [[ -s "${ZDOTDIR:-$HOME}/.zprezto/init.zsh" ]]; then
 fi
 
 # Customize to your needs...
-export EDITOR=/usr/bin/vim
+export VISUAL=vim
+export EDITOR="$VISUAL"
