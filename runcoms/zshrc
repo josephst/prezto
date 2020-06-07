@@ -13,3 +13,7 @@ fi
 # Customize to your needs...
 export VISUAL=vim
 export EDITOR="$VISUAL"
+
+# path customizations
+path=('/home/joseph/.local/bin' $path)
+export PATH
