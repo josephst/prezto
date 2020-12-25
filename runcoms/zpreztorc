@@ -40,7 +40,9 @@ zstyle ':prezto:load' pmodule \
   'utility' \
   'completion' \
   'syntax-highlighting' \
+  'autosuggestions' \
   'ruby' \
+  'alias-finder' \
   'prompt'
 
 #
